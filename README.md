@@ -1,2 +1,2 @@
 # Readme
-Credit to joelxgalarza. Check him out.
+Credit to joelxgalarza. Check him out!
